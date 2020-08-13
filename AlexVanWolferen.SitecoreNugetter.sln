@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{2F2554BE-CFB1-4B1C-B16F-570A47A662EF}"
+	ProjectSection(SolutionItems) = preProject
+		nuget.config = nuget.config
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlexVanWolferen.SitecoreNugetter", "AlexVanWolferen.SitecoreNugetter\AlexVanWolferen.SitecoreNugetter.csproj", "{3EFE4C6A-5A4B-4C0F-87AD-8F4773F87350}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3EFE4C6A-5A4B-4C0F-87AD-8F4773F87350}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EFE4C6A-5A4B-4C0F-87AD-8F4773F87350}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EFE4C6A-5A4B-4C0F-87AD-8F4773F87350}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EFE4C6A-5A4B-4C0F-87AD-8F4773F87350}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA60405B-3AED-442E-A30E-3ADFE9886B63}
+	EndGlobalSection
+EndGlobal
